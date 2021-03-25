@@ -6,6 +6,7 @@
   <br>
   A self-teaching front-end web developer 
   <br>
+  <br>
    😸Thank you for visiting.<br>
   <br>
   <br>
