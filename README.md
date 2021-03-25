@@ -5,7 +5,7 @@
    ✨ A self-teaching web developer.
   <br>
   <br>
-   😸 Thank you for visiting.
+   At the moment, I am focusing on HTML/CSS and Javascript.
   <br>
   <br>
   <img src="https://i.imgur.com/zmkVDwz.gif">
