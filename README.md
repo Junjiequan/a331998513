@@ -1,11 +1,10 @@
 
 <p align="center">
-  <b>### Hi there 👋</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <b> 👋Hi I am Jay</b><br>
+  <p> 😄A self-teaching front-end web developer </p><br>
+  <p> 😸Thank you for visiting and bye.</p><br>
+  <br>
+  <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif">
 </p>
 <!--
 **a331998513/a331998513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
