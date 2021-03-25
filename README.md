@@ -1,11 +1,13 @@
 
 <p align="center">
   <b> 👋Hi I am Jay</b><br>
-  <b> 😄A self-teaching front-end web developer </b><br>
-  <b> 😸Thank you for visiting and bye.</b><br>
+   😄A self-teaching front-end web developer <br>
+   😸Thank you for visiting and bye.<br>
   <br>
   <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif">
 </p>
+
+
 <!--
 **a331998513/a331998513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
