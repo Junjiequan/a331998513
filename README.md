@@ -1,8 +1,8 @@
 
 <p align="center">
   <b> 👋Hi I am Jay</b><br>
-  <p> 😄A self-teaching front-end web developer </p><br>
-  <p> 😸Thank you for visiting and bye.</p><br>
+  <b> 😄A self-teaching front-end web developer </b><br>
+  <b> 😸Thank you for visiting and bye.</b><br>
   <br>
   <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif">
 </p>
