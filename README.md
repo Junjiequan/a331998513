@@ -2,12 +2,10 @@
 <p align="center">
   <b> 👋Hi I am Jay</b><br>
   <br>
-   😄
-  <br>
-  A self-teaching front-end web developer 
+   😄 A self-teaching front-end web developer 
   <br>
   <br>
-   😸Thank you for visiting.<br>
+   😸 Thank you for visiting.<br>
   <br>
   <br>
   <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif">
