@@ -2,7 +2,7 @@
 <p align="center">
   <b> 👋Hi I am Jay</b><br>
    😄A self-teaching front-end web developer <br>
-   😸Thank you for visiting and bye.<br>
+   😸Thank you for visiting.
   <br>
   <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif">
 </p>
