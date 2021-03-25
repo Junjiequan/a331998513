@@ -3,6 +3,8 @@
   <b> 👋Hi I am Jay</b><br>
    😄A self-teaching front-end web developer <br>
    😸Thank you for visiting.<br>
+  <br>
+  <br>
   <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif">
 </p>
 
