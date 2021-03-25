@@ -2,7 +2,7 @@
 <p align="center">
   <b> 👋Hi, I am Jay.</b><br>
   <br>
-   😄 A self-teaching front-end web developer .
+   ✨ A self-teaching front-end web developer .
   <br>
   <br>
    😸 Thank you for visiting.<br>
