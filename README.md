@@ -5,10 +5,14 @@
    ✨ A self-teaching web developer.
   <br>
   <br>
-   😸 Thank you for visiting.<br>
+   😸 Thank you for visiting.
   <br>
   <br>
-  <img src="https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif">
+  <img src="https://i.imgur.com/zmkVDwz.gif">
+  
+  <br>
+  <br>
+  <b>Play hard. Train hard. Work hard. Study hard.</b>
 </p>
 
 
