@@ -12,7 +12,7 @@
   
   <br>
   <br>
-  <b>Play hard. Train hard. Work hard. Study hard.</b>
+  <b>Play hard. Train hard. Work hard. Study hard Period</b>
 </p>
 
 
