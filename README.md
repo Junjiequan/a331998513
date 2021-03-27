@@ -9,10 +9,7 @@
   <br>
   <br>
   <img src="https://i.imgur.com/zmkVDwz.gif">
-  
-  <br>
-  <br>
-  <b>Play hard. Train hard. Work hard. Study hard.</b>
+
 </p>
 
 
