@@ -6,9 +6,7 @@
   <br>
   <br>
    At the moment, I am focusing on HTML/CSS and Javascript.
-  <br>
-  <br>
-  <img src="https://i.imgur.com/zmkVDwz.gif">
+
 
 </p>
 
