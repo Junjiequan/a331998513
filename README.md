@@ -8,7 +8,7 @@
    At the moment, I am focusing on HTML/CSS and Javascript.
   <br>
   <br>
-<img src="https://media.giphy.com/media/Wn08ZDF4Ou4D9Ozqpg/giphy.gif" width="100" height="100" />
+<img src="https://media.giphy.com/media/Wn08ZDF4Ou4D9Ozqpg/giphy.gif" width="150" height="150" />
 </p>
 
 
