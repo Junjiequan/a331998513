@@ -2,9 +2,6 @@
 <p align="center">
   <b> 👋Hi, I am Jay.</b><br>
   <br>
-   ✨ A self-teaching web developer.
-  <br>
-  <br>
    At the moment, I am focusing on HTML/CSS and Javascript.
   <br>
   <br>
