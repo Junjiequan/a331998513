@@ -2,6 +2,8 @@
 <p align="center">
   <b> 👋Hi, I am Jay.</b><br>
   <br>
+  <b> Self-teaching.</b>
+  <br>
    At the moment, I am focusing on HTML/CSS and Javascript.
   <br>
   <br>
