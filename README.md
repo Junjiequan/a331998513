@@ -4,7 +4,7 @@
   <br>
   <b>Self-teaching front end developer wanna be</b>
   <br>
-  
+  <br>
    At the moment, I am focusing on HTML/CSS and Javascript.
   <br>
   <br>
