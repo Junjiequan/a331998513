@@ -8,9 +8,9 @@
    At the moment, I am focusing on HTML/CSS and Javascript.
   <br>
   <br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a331998513)]
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a331998513)
+
 
 <!--
 **a331998513/a331998513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
