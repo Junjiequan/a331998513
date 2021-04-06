@@ -8,7 +8,7 @@
    At the moment, I am focusing on HTML/CSS and Javascript.
   <br>
   <br>
-<img src="https://media.giphy.com/media/Wn08ZDF4Ou4D9Ozqpg/giphy.gif" width="150" height="150" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a331998513)](https://github.com/a331998513/github-readme-stats)
 </p>
 
 
