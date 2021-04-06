@@ -9,7 +9,7 @@
   <br>
   <br>
 <a href="https://github.com/a331998513/projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a331998513&repo=projects" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a331998513" />
 </a>
 </p>
 
