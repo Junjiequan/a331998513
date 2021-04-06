@@ -5,7 +5,7 @@
   <b>Self-teaching front end developer wannabe</b>
   <br>
   <br>
-   At the moment, I am focusing on HTML/CSS and Javascript.
+   At the moment, I am focusing on HTML/SASS and Javascript.
   <br>
   <br>
 <a href="https://github.com/a331998513/projects">
