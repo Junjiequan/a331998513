@@ -8,7 +8,7 @@
    At the moment, I am focusing on HTML/CSS and Javascript.
   <br>
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a331998513)](https://github.com/a331998513/projects)
 </p>
 
 
