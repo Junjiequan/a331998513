@@ -8,7 +8,9 @@
    At the moment, I am focusing on HTML/CSS and Javascript.
   <br>
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a331998513)](https://github.com/a331998513/projects)
+<a href="https://github.com/a331998513/projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a331998513&repo=projects" />
+</a>
 </p>
 
 
