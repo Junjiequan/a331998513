@@ -2,7 +2,7 @@
 <p align="center">
   <b> 👋Hi, I am Jay, a MBA graduate.</b><br>
   <br>
-  <b>Self-taught front end developer wannabe.</b>
+  <p>Self-taught <b>Professional</b>front end developer wannabe.</p>
   <br>
   <br>
    At the moment, I am focusing on 👇 
