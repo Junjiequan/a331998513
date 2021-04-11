@@ -2,15 +2,15 @@
 <p align="center">
   <b> 👋Hi, I am Jay, a MBA graduate.</b><br>
   <br>
-  <span align="center">Self-taught <b>Professional</b>front end developer wannabe.</span>
+  <span >Self-taught <b>Professional</b>front end developer wannabe.</span>
   <br>
   <br>
    At the moment, I am focusing on 👇 
   <br>
   <br>
-<a align="center" href="https://github.com/a331998513/projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a331998513" />
-</a>
+  <a  href="https://github.com/a331998513/projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a331998513" />
+  </a>
 </p>
 <!--
 **a331998513/a331998513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
