@@ -1,6 +1,6 @@
 
 <p align="center">
-  <b> 👋Hi, I am Jay, a MBA graduate.</b><br>
+  <b> 👋Hi, I am Jay.</b><br>
   <br>
   <span> A <b>PROFESSIONAL</b> front end developer wannabe.</span>
   <br>
