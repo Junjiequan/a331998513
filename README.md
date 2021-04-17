@@ -2,7 +2,7 @@
 <p align="center">
   <b> 😸 Hi, I am Jay.</b><br>
   <br>
-  <span> A <b>PROFESSIONAL</b> front end developer wannabe.</span>
+  <span> A front end developer wannabe.</span>
   <br>
   <br>
    At the moment, I am focusing on 👇 
