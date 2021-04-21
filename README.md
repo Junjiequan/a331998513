@@ -2,8 +2,6 @@
 <p align="center">
   <b> 😸 Hi, I am Jay.</b><br>
   <br>
-  <span> An aspiring front end developer </span>
-  <br>
   <br>
    At the moment, I am focusing on 👇 
   <br>
