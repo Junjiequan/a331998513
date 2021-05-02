@@ -1,12 +1,7 @@
-<div align="center">
-      <a href="https://youtu.be/htIuSWBnmok?t=1">
-     <img 
-       width="140px" height="140px"align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1168069610703765689/DAD6C3BFFAC44165E9F7CC0DE93CC51A09C676A4/" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
-<p align="center">
+
+<video width="480" height="320" controls="controls">
+  <source src="https://user-images.githubusercontent.com/78078898/116798774-731d3180-aaf3-11eb-9088-3afff39d53b4.mp4" type="video/mp4">
+</video>
   <b> 😸 Hi, I am Jay.</b><br>
   <br>
   <img width="140px" height="140px"align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1168069610703765689/DAD6C3BFFAC44165E9F7CC0DE93CC51A09C676A4/" />
