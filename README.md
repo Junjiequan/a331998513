@@ -1,8 +1,11 @@
-<script>
-var audio = new Audio("https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/Audio.mp3")
-audio.play()
-</script>
-
+<div align="center">
+      <a href="https://youtu.be/htIuSWBnmok?t=1">
+     <img 
+       width="140px" height="140px"align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1168069610703765689/DAD6C3BFFAC44165E9F7CC0DE93CC51A09C676A4/" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
 <p align="center">
   <b> 😸 Hi, I am Jay.</b><br>
   <br>
