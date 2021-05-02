@@ -2,6 +2,8 @@
 <p align="center">
   <b> 😸 Hi, I am Jay.</b><br>
   <br>
+  <img width="140px" height="140px"align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1168069610703765689/DAD6C3BFFAC44165E9F7CC0DE93CC51A09C676A4/" />
+  <br>
   <br>
    At the moment, I am focusing on 👇 
   <br>
