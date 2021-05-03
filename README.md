@@ -1,4 +1,3 @@
-https://user-images.githubusercontent.com/78078898/116798774-731d3180-aaf3-11eb-9088-3afff39d53b4.mp4
 <p align="center">
   <b> 😸 Hi, I am Jay.</b><br>
   <br>
