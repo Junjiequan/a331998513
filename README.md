@@ -1,7 +1,6 @@
 <p align="center">
   <b> 😸 Hi, I am Jay.</b><br>
   <br>
-  <br>
    At the moment, I am focusing on 👇 
   <br>
   <br>
