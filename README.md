@@ -1,6 +1,6 @@
 <p align="center">
-    
-  <img align="center" src="https://tenor.com/view/doge-dancing-doge-happy-excited-dog-gif-12993432" />
+    <img style="border-radius:10px" width="240px" height="140px" align="center" src="https://i.imgur.com/b2QCIvs.gif" />
+  <br>
   <br>
    At the moment, I am focusing on 👇 
   <br>
