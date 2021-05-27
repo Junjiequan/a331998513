@@ -1,5 +1,6 @@
 <p align="center">
-  <b> 😸 Hi, I am Jay.</b><br>
+    
+  <img align="center" src="https://tenor.com/view/doge-dancing-doge-happy-excited-dog-gif-12993432" />
   <br>
    At the moment, I am focusing on 👇 
   <br>
