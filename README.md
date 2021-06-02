@@ -1,6 +1,4 @@
 <p align="center">
-    <img style="border-radius:10px" width="240px" height="140px" align="center" src="https://i.imgur.com/b2QCIvs.gif" />
-  <br>
   <br>
    At the moment, I am focusing on 👇 
   <br>
