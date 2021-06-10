@@ -1,6 +1,9 @@
 <p align="center">
   <br>
-   A self taught inspiring front-end developer. Journey started since January 19th 2021.
+   A self taught inspiring front-end developer.
+  <br>
+  Journey started since January 19th 2021.
+  <br>
   <br>
    At the moment, I am focusing on 👇 
   <br>
