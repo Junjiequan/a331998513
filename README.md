@@ -4,6 +4,7 @@
   <br>
   Journey started since January 19th 2021.
   <br>
+  Inside Projects repository are the works I have done with front-end mentor challenges
   <br>
    At the moment, I am focusing on 👇 
   <br>
