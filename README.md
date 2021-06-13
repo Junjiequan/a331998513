@@ -7,7 +7,7 @@
   Inside Projects repository are the works I have done with front-end mentor challenges
   <br>
   <br>
-   At the moment, I am focusing on 👇 
+   At the moment, I am focusing on ReactJS. 
   <br>
   <br>
   <a  href="https://github.com/a331998513/projects">
