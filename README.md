@@ -16,4 +16,6 @@
   <br>
   <br>
   My believe and my aim: write readable code first then talk about performance optimization.
+  <br>
+  However, standard for readable code is very subjective... :/
 </p>
