@@ -16,7 +16,9 @@
 </p>
 <br />
 <p align="center">
-  <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=a331998513&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A" >
+  <a href="#">
+    <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=a331998513&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A" >
+  </a>
 </p>
 
 
