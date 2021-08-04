@@ -35,7 +35,7 @@
 # About me 
 Hi, I'm Jay. A Chinese Korean, majored in Economics and business administration and currently self-learning front-end development. 
 
-I have been thinking long about how should I explain my passions in programming... Since I put all my passion into learning & building, I believe to showcase of each project that I've built is the best way to describe my passions. Here is my <a href="http://jayyy.site/" target="_blank" rel="nofollow noreferrer noopener">portfolio website</a> to "check" my passion.
+I have been thinking long about how should I explain my passions in programming... Since I put all my passion into learning & building, I believe that to showcase each project  I've built is probably the best way to prove my passions. So, here is my <a href="http://jayyy.site/" target="_blank" rel="nofollow noreferrer noopener">portfolio website</a> to "check" my passion.
 
 
 ## Short facts
