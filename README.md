@@ -49,6 +49,6 @@ Weight lifting, Boxing, Gaming
 
 <br/>
 <p style="width:100%; border:1px solid gray;"></p>
-add more info later...
+adding more info later...
 
 
