@@ -8,18 +8,18 @@
 
 ## Tech stacks
 <p align="left" style="background-color:white; max-width:fit-content;display:flex; border-radius:5px;padding:5px 10px 0;">
-  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5 icon" width="40" height="40"></a>
-  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass icon" width="40" height="40"></a>
-  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript icon" width="40" height="40"></a>
-  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/react.svg" alt="react icon" width="40" height="40"></a>
-  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github icon" width="40" height="40"></a>
+  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5 icon" width="50" height="50"></a>
+  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass icon" width="50" height="50"></a>
+  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript icon" width="50" height="50"></a>
+  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/react.svg" alt="react icon" width="50" height="50"></a>
+  <a href="#" style="margin:0 5px"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" alt="git icon" width="50" height="50"></a>
 </p>
 
 ## Learning
 <p align="left" style="background-color:white; max-width:fit-content;display:flex; border-radius:5px;padding:5px 10px 0;">
-  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodeJs icon" width="40" height="40"></a>
-  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript icon" width="40" height="40"></a>
-  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongoDB icon" width="70" height="40"></a>
+  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodeJs icon" width="50" height="50"></a>
+  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript icon" width="50" height="50"></a>
+  <a href="#" style="margin:0 5px"><img src="https://miro.medium.com/max/620/1*77jUu8XXo2IuA-G5YB444A.png" alt="mongoDB icon" width="50" height="50"></a>
 </p>
 
 <h2> Most languages used for <a href="https://github.com/a331998513/projects" target="_blank" rel="nofollow noreferrer noopener">personal projects</a></h2>
@@ -37,7 +37,6 @@ Hi, I'm Jay. A Chinese Korean, majored in Economics and business administration 
 
 I have been thinking long about how should I explain my passions in programming... Since I put all my passion into learning & building, I believe to showcase of each project that I've built is the best way to describe my passions. Here is my <a href="http://jayyy.site/" target="_blank" rel="nofollow noreferrer noopener">portfolio website</a> to "check" my passion.
 
-<br/>
 
 ## Short facts
 
