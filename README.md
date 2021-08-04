@@ -35,16 +35,13 @@
 # About me 
 Hi, I'm Jay. A Chinese Korean, majored in Economics and business administration and currently self-learning front-end development. 
 
-I have been thinking long about how should I explain my passions in programming... Since I put all my passion into learning & building, I believe that to showcase each project  I've built is probably the best way to prove my passions. So, here is my <a href="http://jayyy.site/" target="_blank" rel="nofollow noreferrer noopener">portfolio website</a> to "check" my passion.
-
-
-## Short facts
-
 <b >Personality type: </b>
 <a href="https://www.16personalities.com/istp-personality" target="_blank" rel="nofollow noreferrer noopener">ISTP-A</a>
 
 <b>Hobbies:</b>
 Weight lifting, Boxing, Gaming
+
+I have been thinking long about how should I explain my passions in programming... Since I put all my passion into learning & building, I believe that to showcase each project  I've built is probably the best way to prove my passions. So, here is my <a href="http://jayyy.site/" target="_blank" rel="nofollow noreferrer noopener">portfolio website</a> to "check" my passion.
 
 <br/>
 <p style="width:100%; border:1px solid gray;"></p>
