@@ -45,6 +45,5 @@ I have been thinking long about how should I explain my passions in programming.
 
 <br/>
 <p style="width:100%; border:1px solid gray;"></p>
-adding more info later...
 
 
