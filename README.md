@@ -11,10 +11,10 @@
   <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5 icon" width="50" height="50"></a>
   <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass icon" width="50" height="50"></a>
   <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript icon" width="50" height="50"></a>
+  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript icon" width="50" height="50"></a>
   <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/react.svg" alt="react icon" width="50" height="50"></a>
   <a href="#" style="margin:0 5px"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" alt="git icon" width="50" height="50"></a>
   <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodeJs icon" width="50" height="50"></a>
-  <a href="#" style="margin:0 5px"><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript icon" width="50" height="50"></a>
   <a href="#" style="margin:0 5px"><img src="https://miro.medium.com/max/620/1*77jUu8XXo2IuA-G5YB444A.png" alt="mongoDB icon" width="50" height="50"></a>
 </p>
 
