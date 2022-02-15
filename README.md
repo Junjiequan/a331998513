@@ -1,1 +1,1 @@
-# Just a dedicated self-taught developer
+Just a dedicated self-taught developer
