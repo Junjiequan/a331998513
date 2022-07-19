@@ -1,4 +1,4 @@
-**Skilled in**: React, Redux, TypeScript/JavaScript, Css, and lots more.
+**Skilled in**: React, Redux, TypeScript/JavaScript, Css, and more.
 
 **Preferred workplace**: Hybrid
 
