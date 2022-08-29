@@ -1,6 +1,6 @@
 **Skilled in**: React, Redux, TypeScript/JavaScript, Css, and more.
 
-**Experienced**: Azure CI/CD pipelie, NodeJS, NPM, FullStory, Sentry. 
+**Experienced**: Azure CI/CD pipelie, Git, NodeJS, NPM, FullStory, Sentry. 
 
 **Preferred workplace**: Hybrid
 
