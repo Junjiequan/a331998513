@@ -6,4 +6,4 @@
 
 **Working experience**: 1 year (front end developer)
 
-**Hobbies**: physical exercises (6 years weight training, 1 year boxing)
+**Hobbies**: physical exercises (6 years lifting, 1 year boxing)
