@@ -2,7 +2,7 @@
 
 **Experienced**: Git, NodeJS, NPM, FullStory, Sentry. 
 
-**Preferred workplace**: Hybrid
+**Preferred work type**: Hybrid
 
 **Currently learning**: Unit testing - Mocha
 
