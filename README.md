@@ -4,8 +4,6 @@
 
 **Preferred work type**: Hybrid
 
-**Currently learning**: Unit testing - Mocha
-
 **Working experience**: 1 year (front end developer)
 
 **Hobbies**: lifting
