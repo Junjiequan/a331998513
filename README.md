@@ -1,6 +1,6 @@
 **Skilled in**: React, Redux, TypeScript/JavaScript, Css, and more.
 
-**Experienced**: Git, NodeJS, NPM, FullStory, Sentry. 
+**Experienced**: Git, NodeJS, NPM, Docker. 
 
 **Preferred work type**: Hybrid
 
