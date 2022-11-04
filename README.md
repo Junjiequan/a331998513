@@ -8,4 +8,4 @@
 
 **Hobbies**: lifting
 
-<h1>Every project inside projects repository are coded by myself from scratch, not even single one was followed by tutorials, thanks :)</h1>
+<h1>Every project inside projects repository are coded by myself from scratch, not even single one was followed by ANY tutorials, thanks :)</h1>
